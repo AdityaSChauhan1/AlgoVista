@@ -56,5 +56,3 @@ npm start
 - Alok Yadav
 - Kartikey Singh
 
-📎 Repository
-https://github.com/ksingh0012/AlgoVista
