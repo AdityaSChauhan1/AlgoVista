@@ -1,0 +1,19 @@
+# Node.js
+frontend/node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment & sensitive files
+.env
+
+# OS-specific
+.DS_Store
+
+# Logs
+*.log
+
+# Editor-specific
+.vscode/

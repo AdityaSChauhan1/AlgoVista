@@ -1,0 +1,86 @@
+{
+  "gantt": [
+    {
+      "name": "p1",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "name": "p2",
+      "start": 11,
+      "end": 39
+    },
+    {
+      "name": "p4",
+      "start": 39,
+      "end": 49
+    },
+    {
+      "name": "p3",
+      "start": 49,
+      "end": 51
+    },
+    {
+      "name": "p5",
+      "start": 51,
+      "end": 67
+    }
+  ],
+  "process_table": [
+    {
+      "name": "p1",
+      "arrival_time": 0,
+      "burst_time": 11,
+      "start_time": 0,
+      "completion_time": 11,
+      "tat": 11,
+      "wt": 0,
+      "rt": 0
+    },
+    {
+      "name": "p2",
+      "arrival_time": 5,
+      "burst_time": 28,
+      "start_time": 11,
+      "completion_time": 39,
+      "tat": 34,
+      "wt": 6,
+      "rt": 6
+    },
+    {
+      "name": "p3",
+      "arrival_time": 12,
+      "burst_time": 2,
+      "start_time": 49,
+      "completion_time": 51,
+      "tat": 39,
+      "wt": 37,
+      "rt": 37
+    },
+    {
+      "name": "p4",
+      "arrival_time": 2,
+      "burst_time": 10,
+      "start_time": 39,
+      "completion_time": 49,
+      "tat": 47,
+      "wt": 37,
+      "rt": 37
+    },
+    {
+      "name": "p5",
+      "arrival_time": 9,
+      "burst_time": 16,
+      "start_time": 51,
+      "completion_time": 67,
+      "tat": 58,
+      "wt": 42,
+      "rt": 42
+    }
+  ],
+  "avg_tat": 37.8,
+  "avg_wt": 24.4,
+  "avg_rt": 24.4,
+  "cpu_utilization": 100.0,
+  "throughput": 0.07
+}
