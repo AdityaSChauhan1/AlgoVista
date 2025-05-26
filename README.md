@@ -41,14 +41,14 @@ Prerequisites:
 - Python 3.x & pip
 
 Backend Setup:
-cd backend
-pip install -r requirements.txt
-python app.py
+              cd backend
+              pip install -r requirements.txt
+              python app.py
 
 Frontend Setup:
-cd frontend
-npm install
-npm start
+              cd frontend
+              npm install
+              npm start
 
 👨‍💻 Team ALPHA – SE(OS)-VI-T164
 - Aditya Chauhan – Team Lead
