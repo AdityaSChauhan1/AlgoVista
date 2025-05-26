@@ -30,7 +30,7 @@ function App() {
           setSelectedAlgo(res.data.algorithms[0]);
         }
       })
-      .catch(() => setError('Failed to fetch algorithms'));
+      .catch(() => setError('Failed to fetch the algorithms'));
   }, []);
 
   // update the process data when the user edits input fields
