@@ -6,8 +6,8 @@ CPU Scheduling Visualizer is a web-based interactive educational tool that helps
 🚀 Project Overview
 This tool visually simulates the following CPU scheduling algorithms:
 - First-Come-First-Serve (FCFS)
-- Shortest Job First (SJF) – Preemptive and Non-Preemptive
-- Longest Job First (LJF) – Preemptive and Non-Preemptive
+- Shortest Job First Scheduling (SJFS) – Preemptive and Non-Preemptive
+- Longest Job First Scheduling (LJFS) – Preemptive and Non-Preemptive
 - Round Robin
 - Highest Response Ratio Next (HRRN)
 - Priority Scheduling – Preemptive and Non-Preemptive
