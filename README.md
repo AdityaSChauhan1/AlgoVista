@@ -42,16 +42,12 @@ Prerequisites:
 
 Backend Setup:
 cd backend
-
 pip install -r requirements.txt
-
 python app.py
 
 Frontend Setup:
 cd frontend
-
 npm install
-
 npm start
 
 👨‍💻 Team ALPHA – SE(OS)-VI-T164
